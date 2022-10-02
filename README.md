@@ -23,7 +23,7 @@ import {ILendingPool} from "https://github.com/aave/protocol-v2/blob/master/cont
 import {ILendingPoolAddressesProvider} from "https://github.com/aave/protocol-v2/blob/master/contracts/interfaces/ILendingPoolAddressesProvider.sol";
 import {IERC20} from "https://github.com/aave/protocol-v2/blob/master/contracts/dependencies/openzeppelin/contracts/IERC20.sol";
 
-## Dex.sol deployed: 
+## Dex.sol deployed (Goerli): 
 0xD6e8c479B6B62d8Ce985C0f686D39e96af9424df
 
 ## Add liquidity to Dex.sol:
